@@ -4,7 +4,8 @@ You need do few steps:
 
 
 (1) Open console and to run command:
-git clone git@github.com:semiromid/compress-images.git
+
+git pull https://github.com/AkashSolankle/compress_images.git
 
 (2) Go to in folder "compress-images" and delete all folders and files except "example"
 
@@ -13,6 +14,7 @@ git clone git@github.com:semiromid/compress-images.git
 
 
 (4) Open console and run the command in the console: 
+
 npm install compress-images --save-dev
 
 
